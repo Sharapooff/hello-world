@@ -11,3 +11,4 @@ add 15.01.2021
 add new string 22.01.2021
 
 GeemBim!
+Add in local git
